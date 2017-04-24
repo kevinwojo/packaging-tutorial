@@ -1,3 +1,4 @@
+(This is a work-in-progress. I am developing a Jupyter Notebook with a bash kernel to demonstrate some of the packaging techniques used by HUBzero)
 
 # HUBzero Packaging Tutorial
 
