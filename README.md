@@ -54,7 +54,8 @@ If the above was successful, there will be output in the cell to follow.
 ls -la | grep test-hubzero-solr
 ```
 
-    drwxr-xr-x  4 kwojkovi kwojkovi  4096 Apr 23 21:15 [01;31m[Ktest-hubzero-solr[m[K
+    drwxr-xr-x  4 kwojkovi kwojkovi  4096 Apr 23 21:15 test-hubzero-solr
+
 
 
 ## Further reading
